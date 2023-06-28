@@ -8,17 +8,18 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(158, 155, 155);
+    background-color: rgb(65, 89, 167);
 }
 
 .header_title {
-    color: rgb(216, 24, 24);
+    color: rgb(24, 14, 14);
     font-size: 2em;
 }
 
 .list_name {
     font-size: 1em;
     list-style: none;
+    color: white;
 }
 
 .main_card {
