@@ -22,6 +22,10 @@
     color: rgb(202, 202, 202);
 }
 
+.title_list {
+    font-weight: bold;
+}
+
 .main_card {
     display: flex;
     flex-wrap: wrap;
